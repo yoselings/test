@@ -1,3 +1,3 @@
 a = 2
-c = 'text'
-print(c)
+b = 3
+print(str(b))
