@@ -1,2 +1,3 @@
 a = 2
-print(str(a))
+c = 'text'
+print(c)
