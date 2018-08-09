@@ -1,2 +1,3 @@
 a = 2
-print(str(a))
+b = 3
+print(str(b))
